@@ -10,10 +10,10 @@
   "checksums": {
     "Modulefile": "f97713ea264bdee933e307797b2e3ded",
     "README": "c159183649d4f698a437cd907fb06364",
-    "README.md": "1141de70441b7edbb45760ab075a60a9",
-    "manifests/db.pp": "e1db104cff7091ae9bd68c9bf1e38876",
+    "README.md": "4fb79b6c38f18a4f0694e624a137a5b4",
+    "manifests/db.pp": "a2ea0459128b42491bf753951b74ba4b",
     "manifests/init.pp": "83b4d730fe60d2e494397504d4d77392",
-    "manifests/user.pp": "fb5cbb336eddca5a0cebe561e978af0d",
+    "manifests/user.pp": "c1c9d55605b7a0db24d3031a119eb87e",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
     "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
     "tests/Vagrantfile": "cf0d9d053bd160ad4abf4273c3d1c0e1",
